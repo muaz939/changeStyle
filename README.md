@@ -7,6 +7,7 @@ Change element Style
 `npm i --save changeStyle`
 
 ...
+
 import {changeStyle} from 'changeStyle'
 
 changeStyle({"red",18})
